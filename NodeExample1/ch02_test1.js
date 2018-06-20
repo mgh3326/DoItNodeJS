@@ -21,6 +21,8 @@ console.log('현재 실행한 파일의 패스 : %s', __dirname);
 
 
 // dir() 메소드 사용하기
-var Person = {name:"소녀시대", age:20};
+var Person = {
+	name: "소녀시대",
+	age: 20
+};
 console.dir(Person);
-

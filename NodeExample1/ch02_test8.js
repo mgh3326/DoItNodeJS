@@ -1,4 +1,3 @@
-
 /**
  * 2장 Test 8
  * 
@@ -23,5 +22,3 @@ var dirname = path.dirname(filename);
 var basename = path.basename(filename);
 var extname = path.extname(filename);
 console.log('디렉토리 : %s, 파일 이름 : %s, 확장자 : %s', dirname, basename, extname);
-
-
